@@ -40,6 +40,12 @@ I first convert the NAME column to data points because it seems significant to t
 
 After that I added one more hidden layer with more neurons and changed the 2nd and 3rd layers to sigmoid, it increased the accuracy to 75.33%
 
+Before attemps
+![before](https://user-images.githubusercontent.com/100378319/178060128-4bd42b62-f7c6-4713-99b6-61c07b8b395d.png)
+
+After 3 attempts
+![after](https://user-images.githubusercontent.com/100378319/178060134-4ca11aa1-0c7f-4450-a964-0ce8d99a3757.png)
+
 ## Summary
 
 To sum up, after the three attempts to modify the learning model, the performance is increased to 75.33% and it passes the standard.
