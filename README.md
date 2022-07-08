@@ -42,7 +42,8 @@ After that I added one more hidden layer with more neurons and changed the 2nd a
 
 **Before attemps**
 
-![before](https://user-images.githubusercontent.com/100378319/178060128-4bd42b62-f7c6-4713-99b6-61c07b8b395d.png)
+![before](https://user-images.githubusercontent.com/100378319/178061848-9eb0bfdb-3f1b-467f-957f-2da88082603c.png)
+
 
 **After 3 attempts**
 
